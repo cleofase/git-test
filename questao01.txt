@@ -1,2 +1,3 @@
 arquivo adicionado da branch questao01
 outra modificação pós correção de questao02.
+Alteração local em Linux.
