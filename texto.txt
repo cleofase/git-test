@@ -1,2 +1,3 @@
 versão inicial criada por Windows.
 Versão modificada por Linux.
+Correção da questão 02.
